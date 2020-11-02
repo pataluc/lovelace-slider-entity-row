@@ -11,6 +11,7 @@ import { InputSelectController } from "./input-select-controller.js";
 
 const controllers = {
   light: LightController,
+  swicth: LightController,
   media_player: MediaPlayerController,
   climate: ClimateController,
   cover: CoverController,
